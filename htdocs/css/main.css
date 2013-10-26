@@ -1,0 +1,14 @@
+
+body { padding-top: 20px; padding-bottom: 20px; }
+
+@media (min-width: 768px) {
+    .container {
+        max-width: 730px;
+    }
+}
+
+.header { border-bottom: 1px solid #e5e5e5; margin-bottom: 20px; }
+.header h3 { margin-top: 0; margin-bottom: 0; line-height: 40px; padding-bottom: 19px; }
+.footer { margin-top:20px; padding-top: 20px; color: #777; border-top: 1px solid #e5e5e5; }
+
+.mainInput {box-sizing: border-box; width: 100%; border-radius: 10px; font-size: 15px;}
